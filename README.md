@@ -25,7 +25,7 @@ Data Analysis: Discover how I analyze data and develop visualizations to gain me
 ¡Si estás interesado en desarrollo móvil, análisis de datos o quieres colaborar en algún proyecto, me encantaría conectar contigo! Puedes encontrarme en LinkedIn y Twitter.
 
 **Connect with me:**
-If you're interested in mobile development, data analysis, or want to collaborate on any project, I'd love to connect with you! You can find me on 
+If you're interested in mobile development, data analysis, or want to collaborate on any project, I'd love to connect with you! You can find me on https://eduardoarismendy.github.io/
 
 ¡Gracias por visitar mi perfil y compartir este viaje conmigo!
 Thank you for visiting my profile and sharing this journey with me!
