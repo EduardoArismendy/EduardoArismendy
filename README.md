@@ -1,4 +1,4 @@
-# ¡Hola! Soy Eduardo Arismendy <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋</font></font>
+# ¡Hola! Soy Eduardo Arismendy 
 
 ## **Desarrollador Móvil y Analista de Datos / Mobile Developer and Data Analyst**
 
