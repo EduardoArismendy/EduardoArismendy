@@ -3,7 +3,7 @@
 
 # ¡Hola! Soy Eduardo Arismendy 
 
-## **Desarrollador Móvil y Analista de Datos / Mobile Developer and Data Analyst**
+## **Desarrollador Móvil y Analista de Datos / Mobile Application Developer**
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador móvil y analista de datos apasionado que crea aplicaciones móviles innovadoras y escalables, además de analizar datos para extraer insights valiosos.
 Welcome to my GitHub profile! I'm a passionate mobile developer and data analyst who creates innovative and scalable mobile applications, as well as analyzes data to extract valuable insights.
