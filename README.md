@@ -1,9 +1,9 @@
 
 ![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/user-attachments/assets/59cb887f-a15c-44d8-8865-69f2b21b5a03)
 
-# ¡Hola! Soy Eduardo Arismendy 
+# ¡Hola! Soy Eduardo 👍
 
-## **Desarrollador Móvil y Analista de Datos / Mobile Application Developer**
+## **Desarrollador Móvil / Mobile Application Developer** 📲
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador móvil y analista de datos apasionado que crea aplicaciones móviles innovadoras y escalables, además de analizar datos para extraer insights valiosos.
 Welcome to my GitHub profile! I'm a passionate mobile developer and data analyst who creates innovative and scalable mobile applications, as well as analyzes data to extract valuable insights.
