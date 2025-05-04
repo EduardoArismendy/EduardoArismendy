@@ -3,7 +3,7 @@
 
 # ¡Hello! Soy Eduardo 👍
 
-## **Mobile Application Developer** 📲
+## **Mobile Developer** 📲
 
 Welcome to my GitHub profile! I'm a passionate mobile developer and data analyst who creates innovative and scalable mobile applications.
 
