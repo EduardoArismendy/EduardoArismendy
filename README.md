@@ -14,7 +14,7 @@ I create native Android mobile applications using technologies like Kotlin and F
 Explore my repositories to see examples of mobile applications developed in Kotlin, React Native and Firebase.  I'm currently expanding my skills with Swift to build fully native iOS experiences.
 
 **Connect with me:**
-If you're interested in mobile development, data analysis, or want to collaborate on any project, I'd love to connect with you! You can find me on https://eduardoarismendy.github.io/
+If you're interested in mobile development, data analysis, or want to collaborate on any project.
 
 Thank you for visiting my profile and sharing this journey with me!
 
