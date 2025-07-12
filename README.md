@@ -3,19 +3,20 @@
 
 # ¡Hello! Soy Eduardo 👍
 
-## **Mobile Developer** 📲
+## 👋 I'm a Mobile Developer
 
-Welcome to my GitHub profile! I'm a passionate mobile developer and data analyst who creates innovative and scalable mobile applications.
+Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative, efficient, and scalable mobile solutions. I enjoy transforming ideas into intuitive applications that make a real impact.
 
-**What I do:**
-I create native Android mobile applications using technologies like Kotlin and Firebase.
+### 🚀 What I do
+- I design and build mobile applications with an emphasis on performance, usability, and clean architecture.
+- I’m constantly learning and growing to deliver better digital experiences.
 
-**What you'll find here:**
-Explore my repositories to see examples of mobile applications developed in Kotlin, React Native and Firebase.  I'm currently expanding my skills with Swift to build fully native iOS experiences.
+### 📂 What you’ll find here
+- Repositories showcasing a variety of mobile projects and experiments.
+- Ongoing personal and collaborative projects reflecting my passion for development and continuous improvement.
 
-**Connect with me:**
-If you're interested in mobile development, data analysis, or want to collaborate on any project.
+### 🤝 Let’s connect
+If you're into mobile development, data-driven apps, or are looking to collaborate on meaningful projects, feel free to reach out!
 
-Thank you for visiting my profile and sharing this journey with me!
-
+Thanks for visiting my profile and being part of the journey.  
 ✌️
