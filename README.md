@@ -1,5 +1,5 @@
 
-![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/user-attachments/assets/59cb887f-a15c-44d8-8865-69f2b21b5a03)
+![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/EduardoArismendy/ImagenesURL/blob/main/work.jpg)
 
 # ¡Hello! Soy Eduardo 👍
 
